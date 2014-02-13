@@ -20,7 +20,7 @@ Please see sample LKAppList.plist
 LKUserDefaults is available through [CocoaPods](http://cocoapods.org), to install
 it simply add the following line to your Podfile:
 
-    pod "LKAppList", :git => 'https://github.com/lakesoft/LKAppList.git'
+    pod "LKAppView", :git => 'https://github.com/lakesoft/LKAppView.git'
 
 ## Author
 
