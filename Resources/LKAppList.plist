@@ -4,76 +4,26 @@
 <array>
 	<dict>
 		<key>ApplicationName</key>
-		<string>EverGear</string>
+		<string>KickCalPro</string>
 		<key>BundleIdentifier</key>
-		<string>jp.lakesoft.EverGear</string>
+		<string>jp.lakesoft.KickCalPro</string>
 		<key>ITunesItemIdentifier</key>
-		<string>523574150</string>
+		<string>789188018</string>
 		<key>Labels</key>
 		<dict>
 			<key>en</key>
 			<dict>
 				<key>name</key>
-				<string>EverGear</string>
+				<string>KickCalPro</string>
 				<key>desc</key>
-				<string>Powerful posting tool for Evernote</string>
+				<string>Speedy Calendar Register</string>
 			</dict>
 			<key>ja</key>
 			<dict>
 				<key>name</key>
-				<string>EverGear</string>
+				<string>KickCalPro</string>
 				<key>desc</key>
-				<string>高機能Evernote投稿ツール</string>
-			</dict>
-		</dict>
-	</dict>
-	<dict>
-		<key>ApplicationName</key>
-		<string>Viewing Fun !</string>
-		<key>BundleIdentifier</key>
-		<string>jp.lakesoft.ViewingFun</string>
-		<key>ITunesItemIdentifier</key>
-		<string>665537846</string>
-		<key>Labels</key>
-		<dict>
-			<key>en</key>
-			<dict>
-				<key>name</key>
-				<string>Viewing Fun !</string>
-				<key>desc</key>
-				<string>Stylish Photo Viewer (Free)</string>
-			</dict>
-			<key>ja</key>
-			<dict>
-				<key>name</key>
-				<string>Viewing Fun !</string>
-				<key>desc</key>
-				<string>新感覚写真ビューア（無料）</string>
-			</dict>
-		</dict>
-	</dict>
-	<dict>
-		<key>ApplicationName</key>
-		<string>KickReminder</string>
-		<key>BundleIdentifier</key>
-		<string>jp.lakesoft.KickReminder</string>
-		<key>ITunesItemIdentifier</key>
-		<string>702233445</string>
-		<key>Labels</key>
-		<dict>
-			<key>en</key>
-			<dict>
-				<key>name</key>
-				<string>KickReminder</string>
-				<key>desc</key>
-				<string>Fast Rminder Tool</string>
-			</dict>
-			<key>ja</key>
-			<dict>
-				<key>name</key>
-				<string>KickReminder</string>
-				<key>desc</key>
-				<string>最速リマインダ投稿ツール</string>
+				<string>最速カレンダー登録（有料）</string>
 			</dict>
 		</dict>
 	</dict>
@@ -104,26 +54,76 @@
 	</dict>
 	<dict>
 		<key>ApplicationName</key>
-		<string>KickCalPro</string>
+		<string>KickReminder</string>
 		<key>BundleIdentifier</key>
-		<string>jp.lakesoft.KickCalPro</string>
+		<string>jp.lakesoft.KickReminder</string>
 		<key>ITunesItemIdentifier</key>
-		<string>789188018</string>
+		<string>702233445</string>
 		<key>Labels</key>
 		<dict>
 			<key>en</key>
 			<dict>
 				<key>name</key>
-				<string>KickCalPro</string>
+				<string>KickReminder</string>
 				<key>desc</key>
-				<string>Speedy Calendar Register</string>
+				<string>Fast Rminder Tool</string>
 			</dict>
 			<key>ja</key>
 			<dict>
 				<key>name</key>
-				<string>KickCalPro</string>
+				<string>KickReminder</string>
 				<key>desc</key>
-				<string>最速カレンダー登録（有料）</string>
+				<string>最速リマインダ投稿ツール</string>
+			</dict>
+		</dict>
+	</dict>
+	<dict>
+		<key>ApplicationName</key>
+		<string>Viewing Fun !</string>
+		<key>BundleIdentifier</key>
+		<string>jp.lakesoft.ViewingFun</string>
+		<key>ITunesItemIdentifier</key>
+		<string>665537846</string>
+		<key>Labels</key>
+		<dict>
+			<key>en</key>
+			<dict>
+				<key>name</key>
+				<string>Viewing Fun !</string>
+				<key>desc</key>
+				<string>Stylish Photo Viewer (Free)</string>
+			</dict>
+			<key>ja</key>
+			<dict>
+				<key>name</key>
+				<string>Viewing Fun !</string>
+				<key>desc</key>
+				<string>新感覚写真ビューア（無料）</string>
+			</dict>
+		</dict>
+	</dict>
+	<dict>
+		<key>ApplicationName</key>
+		<string>EverGear</string>
+		<key>BundleIdentifier</key>
+		<string>jp.lakesoft.EverGear</string>
+		<key>ITunesItemIdentifier</key>
+		<string>523574150</string>
+		<key>Labels</key>
+		<dict>
+			<key>en</key>
+			<dict>
+				<key>name</key>
+				<string>EverGear</string>
+				<key>desc</key>
+				<string>Powerful posting tool for Evernote</string>
+			</dict>
+			<key>ja</key>
+			<dict>
+				<key>name</key>
+				<string>EverGear</string>
+				<key>desc</key>
+				<string>高機能Evernote投稿ツール</string>
 			</dict>
 		</dict>
 	</dict>
