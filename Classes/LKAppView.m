@@ -28,6 +28,8 @@
     self.backgroundColor = UIColor.clearColor;
     self.separatorStyle = UITableViewCellSeparatorStyleNone;
     self.scrollEnabled = NO;
+    
+    self.textColor = UIColor.darkGrayColor;
 }
 
 #pragma mark -
@@ -86,7 +88,12 @@
     [self openStoreAtIndex:sender.tag];
 }
 
-
+#pragma mark - Properties
+- (void)setTextColor:(UIColor *)textColor
+{
+    _textColor = textColor;
+    [self reloadData];
+}
 
 #pragma mark -
 #pragma mark SKStoreProductViewControllerDelegate
@@ -117,10 +124,10 @@
         layer.masksToBounds = YES;
         layer.cornerRadius = 10.0f;
         cell.textLabel.font = [UIFont fontWithName:@"HelveticaNeue" size:18.0];
-        cell.textLabel.textColor = UIColor.darkGrayColor;
+        cell.textLabel.textColor = self.textColor;
         cell.textLabel.adjustsFontSizeToFitWidth = YES;
         cell.detailTextLabel.font = [UIFont fontWithName:@"HelveticaNeue-Light" size:15.0];
-        cell.detailTextLabel.textColor = UIColor.darkGrayColor;
+        cell.detailTextLabel.textColor = self.textColor;
         cell.detailTextLabel.adjustsFontSizeToFitWidth = YES;
     }
 

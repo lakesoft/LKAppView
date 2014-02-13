@@ -7,8 +7,9 @@
 //
 
 #import "LKViewController.h"
-
+#import "LKAppView.h"
 @interface LKViewController ()
+@property (weak, nonatomic) IBOutlet LKAppView *appView;
 
 @end
 
@@ -18,6 +19,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    self.appView.textColor = UIColor.whiteColor;
 }
 
 - (void)didReceiveMemoryWarning

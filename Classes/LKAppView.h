@@ -11,7 +11,7 @@
 @interface LKAppView : UITableView
 
 @property (weak, nonatomic) IBOutlet UIViewController* viewCotnroller;
-@property (strong, nonatomic, readonly) LKAppList* appList;
+@property (strong, nonatomic) UIColor* textColor;
 
 - (void)setup;
 - (void)openStoreAtIndex:(NSUInteger)index;
