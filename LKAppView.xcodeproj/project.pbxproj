@@ -21,6 +21,15 @@
 		BC43806C18ACF7A800E268E8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BC43804E18ACF7A800E268E8 /* UIKit.framework */; };
 		BC43807418ACF7A800E268E8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = BC43807218ACF7A800E268E8 /* InfoPlist.strings */; };
 		BC43807618ACF7A800E268E8 /* LKAppViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BC43807518ACF7A800E268E8 /* LKAppViewTests.m */; };
+		BC43808418ACF89400E268E8 /* LKAppView.m in Sources */ = {isa = PBXBuildFile; fileRef = BC43808118ACF89400E268E8 /* LKAppView.m */; };
+		BC43808518ACF89400E268E8 /* LKAppList.m in Sources */ = {isa = PBXBuildFile; fileRef = BC43808318ACF89400E268E8 /* LKAppList.m */; };
+		BC43809B18AD088900E268E8 /* 523574150.png in Resources */ = {isa = PBXBuildFile; fileRef = BC43809718AD088900E268E8 /* 523574150.png */; };
+		BC43809C18AD088900E268E8 /* 665537846.png in Resources */ = {isa = PBXBuildFile; fileRef = BC43809818AD088900E268E8 /* 665537846.png */; };
+		BC43809D18AD088900E268E8 /* 702233445.png in Resources */ = {isa = PBXBuildFile; fileRef = BC43809918AD088900E268E8 /* 702233445.png */; };
+		BC43809E18AD088900E268E8 /* LKAppList.plist in Resources */ = {isa = PBXBuildFile; fileRef = BC43809A18AD088900E268E8 /* LKAppList.plist */; };
+		BC4380A018AD090D00E268E8 /* 738116301.png in Resources */ = {isa = PBXBuildFile; fileRef = BC43809F18AD090D00E268E8 /* 738116301.png */; };
+		BC4380A218AD09C600E268E8 /* 789188018.png in Resources */ = {isa = PBXBuildFile; fileRef = BC4380A118AD09C600E268E8 /* 789188018.png */; };
+		BC4380A518AD0A2F00E268E8 /* LKAppView.podspec in Resources */ = {isa = PBXBuildFile; fileRef = BC4380A418AD0A2F00E268E8 /* LKAppView.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +62,17 @@
 		BC43807118ACF7A800E268E8 /* LKAppViewTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "LKAppViewTests-Info.plist"; sourceTree = "<group>"; };
 		BC43807318ACF7A800E268E8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		BC43807518ACF7A800E268E8 /* LKAppViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LKAppViewTests.m; sourceTree = "<group>"; };
+		BC43808018ACF89400E268E8 /* LKAppView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LKAppView.h; sourceTree = "<group>"; };
+		BC43808118ACF89400E268E8 /* LKAppView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LKAppView.m; sourceTree = "<group>"; };
+		BC43808218ACF89400E268E8 /* LKAppList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LKAppList.h; sourceTree = "<group>"; };
+		BC43808318ACF89400E268E8 /* LKAppList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LKAppList.m; sourceTree = "<group>"; };
+		BC43809718AD088900E268E8 /* 523574150.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 523574150.png; sourceTree = "<group>"; };
+		BC43809818AD088900E268E8 /* 665537846.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 665537846.png; sourceTree = "<group>"; };
+		BC43809918AD088900E268E8 /* 702233445.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 702233445.png; sourceTree = "<group>"; };
+		BC43809A18AD088900E268E8 /* LKAppList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = LKAppList.plist; sourceTree = "<group>"; };
+		BC43809F18AD090D00E268E8 /* 738116301.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 738116301.png; sourceTree = "<group>"; };
+		BC4380A118AD09C600E268E8 /* 789188018.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 789188018.png; sourceTree = "<group>"; };
+		BC4380A418AD0A2F00E268E8 /* LKAppView.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LKAppView.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,8 +102,11 @@
 		BC43803E18ACF7A800E268E8 = {
 			isa = PBXGroup;
 			children = (
-				BC43805018ACF7A800E268E8 /* LKAppView */,
-				BC43806F18ACF7A800E268E8 /* LKAppViewTests */,
+				BC4380A318AD0A1900E268E8 /* CocoaPods */,
+				BC43807F18ACF84F00E268E8 /* Classes */,
+				BC43809618AD083800E268E8 /* Resources */,
+				BC43805018ACF7A800E268E8 /* Examples */,
+				BC43806F18ACF7A800E268E8 /* Tests */,
 				BC43804918ACF7A800E268E8 /* Frameworks */,
 				BC43804818ACF7A800E268E8 /* Products */,
 			);
@@ -109,7 +132,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		BC43805018ACF7A800E268E8 /* LKAppView */ = {
+		BC43805018ACF7A800E268E8 /* Examples */ = {
 			isa = PBXGroup;
 			children = (
 				BC43805918ACF7A800E268E8 /* LKAppDelegate.h */,
@@ -120,7 +143,7 @@
 				BC43806218ACF7A800E268E8 /* Images.xcassets */,
 				BC43805118ACF7A800E268E8 /* Supporting Files */,
 			);
-			path = LKAppView;
+			path = Examples;
 			sourceTree = "<group>";
 		};
 		BC43805118ACF7A800E268E8 /* Supporting Files */ = {
@@ -134,13 +157,13 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		BC43806F18ACF7A800E268E8 /* LKAppViewTests */ = {
+		BC43806F18ACF7A800E268E8 /* Tests */ = {
 			isa = PBXGroup;
 			children = (
 				BC43807518ACF7A800E268E8 /* LKAppViewTests.m */,
 				BC43807018ACF7A800E268E8 /* Supporting Files */,
 			);
-			path = LKAppViewTests;
+			path = Tests;
 			sourceTree = "<group>";
 		};
 		BC43807018ACF7A800E268E8 /* Supporting Files */ = {
@@ -150,6 +173,38 @@
 				BC43807218ACF7A800E268E8 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		BC43807F18ACF84F00E268E8 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				BC43808018ACF89400E268E8 /* LKAppView.h */,
+				BC43808118ACF89400E268E8 /* LKAppView.m */,
+				BC43808218ACF89400E268E8 /* LKAppList.h */,
+				BC43808318ACF89400E268E8 /* LKAppList.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		BC43809618AD083800E268E8 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				BC43809A18AD088900E268E8 /* LKAppList.plist */,
+				BC43809718AD088900E268E8 /* 523574150.png */,
+				BC43809818AD088900E268E8 /* 665537846.png */,
+				BC43809918AD088900E268E8 /* 702233445.png */,
+				BC43809F18AD090D00E268E8 /* 738116301.png */,
+				BC4380A118AD09C600E268E8 /* 789188018.png */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		BC4380A318AD0A1900E268E8 /* CocoaPods */ = {
+			isa = PBXGroup;
+			children = (
+				BC4380A418AD0A2F00E268E8 /* LKAppView.podspec */,
+			);
+			name = CocoaPods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,8 +284,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BC43809B18AD088900E268E8 /* 523574150.png in Resources */,
+				BC43809C18AD088900E268E8 /* 665537846.png in Resources */,
+				BC43809D18AD088900E268E8 /* 702233445.png in Resources */,
 				BC43806318ACF7A800E268E8 /* Images.xcassets in Resources */,
+				BC4380A218AD09C600E268E8 /* 789188018.png in Resources */,
+				BC43809E18AD088900E268E8 /* LKAppList.plist in Resources */,
+				BC4380A518AD0A2F00E268E8 /* LKAppView.podspec in Resources */,
 				BC43805518ACF7A800E268E8 /* InfoPlist.strings in Resources */,
+				BC4380A018AD090D00E268E8 /* 738116301.png in Resources */,
 				BC43805E18ACF7A800E268E8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -250,6 +312,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BC43808418ACF89400E268E8 /* LKAppView.m in Sources */,
+				BC43808518ACF89400E268E8 /* LKAppList.m in Sources */,
 				BC43805718ACF7A800E268E8 /* main.m in Sources */,
 				BC43805B18ACF7A800E268E8 /* LKAppDelegate.m in Sources */,
 				BC43806118ACF7A800E268E8 /* LKViewController.m in Sources */,
@@ -380,8 +444,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "LKAppView/LKAppView-Prefix.pch";
-				INFOPLIST_FILE = "LKAppView/LKAppView-Info.plist";
+				GCC_PREFIX_HEADER = "Examples/LKAppView-Prefix.pch";
+				INFOPLIST_FILE = "Examples/LKAppView-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -393,8 +457,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "LKAppView/LKAppView-Prefix.pch";
-				INFOPLIST_FILE = "LKAppView/LKAppView-Info.plist";
+				GCC_PREFIX_HEADER = "Examples/LKAppView-Prefix.pch";
+				INFOPLIST_FILE = "Examples/LKAppView-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -461,6 +525,7 @@
 				BC43807B18ACF7A800E268E8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BC43807C18ACF7A800E268E8 /* Build configuration list for PBXNativeTarget "LKAppViewTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +534,7 @@
 				BC43807E18ACF7A800E268E8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
