@@ -4,6 +4,31 @@
 <array>
 	<dict>
 		<key>ApplicationName</key>
+		<string>StackOne</string>
+		<key>BundleIdentifier</key>
+		<string>jp.lakesoft.StackOne</string>
+		<key>ITunesItemIdentifier</key>
+		<string>829927919</string>
+		<key>Labels</key>
+		<dict>
+			<key>en</key>
+			<dict>
+				<key>name</key>
+				<string>StackOne</string>
+				<key>desc</key>
+				<string>Speedy Evernote Tool</string>
+			</dict>
+			<key>ja</key>
+			<dict>
+				<key>name</key>
+				<string>StackOne</string>
+				<key>desc</key>
+				<string>さくさくエバーノート投稿</string>
+			</dict>
+		</dict>
+	</dict>
+	<dict>
+		<key>ApplicationName</key>
 		<string>KickCalPro</string>
 		<key>BundleIdentifier</key>
 		<string>jp.lakesoft.KickCalPro</string>

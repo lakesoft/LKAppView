@@ -30,6 +30,7 @@
 		BC4380A018AD090D00E268E8 /* 738116301.png in Resources */ = {isa = PBXBuildFile; fileRef = BC43809F18AD090D00E268E8 /* 738116301.png */; };
 		BC4380A218AD09C600E268E8 /* 789188018.png in Resources */ = {isa = PBXBuildFile; fileRef = BC4380A118AD09C600E268E8 /* 789188018.png */; };
 		BC4380A518AD0A2F00E268E8 /* LKAppView.podspec in Resources */ = {isa = PBXBuildFile; fileRef = BC4380A418AD0A2F00E268E8 /* LKAppView.podspec */; };
+		BCBB9C4C191AEAC7007AAFEB /* 829927919.png in Resources */ = {isa = PBXBuildFile; fileRef = BCBB9C4B191AEAC7007AAFEB /* 829927919.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -73,6 +74,7 @@
 		BC43809F18AD090D00E268E8 /* 738116301.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 738116301.png; sourceTree = "<group>"; };
 		BC4380A118AD09C600E268E8 /* 789188018.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 789188018.png; sourceTree = "<group>"; };
 		BC4380A418AD0A2F00E268E8 /* LKAppView.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LKAppView.podspec; sourceTree = "<group>"; };
+		BCBB9C4B191AEAC7007AAFEB /* 829927919.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 829927919.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -195,6 +197,7 @@
 				BC43809918AD088900E268E8 /* 702233445.png */,
 				BC43809F18AD090D00E268E8 /* 738116301.png */,
 				BC4380A118AD09C600E268E8 /* 789188018.png */,
+				BCBB9C4B191AEAC7007AAFEB /* 829927919.png */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -252,7 +255,7 @@
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = LK;
-				LastUpgradeCheck = 0500;
+				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = lakesoft;
 				TargetAttributes = {
 					BC43806718ACF7A800E268E8 = {
@@ -289,6 +292,7 @@
 				BC43809D18AD088900E268E8 /* 702233445.png in Resources */,
 				BC43806318ACF7A800E268E8 /* Images.xcassets in Resources */,
 				BC4380A218AD09C600E268E8 /* 789188018.png in Resources */,
+				BCBB9C4C191AEAC7007AAFEB /* 829927919.png in Resources */,
 				BC43809E18AD088900E268E8 /* LKAppList.plist in Resources */,
 				BC4380A518AD0A2F00E268E8 /* LKAppView.podspec in Resources */,
 				BC43805518ACF7A800E268E8 /* InfoPlist.strings in Resources */,
@@ -370,7 +374,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -409,7 +412,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -467,7 +469,6 @@
 		BC43807D18ACF7A800E268E8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/LKAppView.app/LKAppView";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
@@ -490,7 +491,6 @@
 		BC43807E18ACF7A800E268E8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/LKAppView.app/LKAppView";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
