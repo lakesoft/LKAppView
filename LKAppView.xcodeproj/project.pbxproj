@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BC3972FF19B7CBFA00E9C917 /* 900731526.png in Resources */ = {isa = PBXBuildFile; fileRef = BC3972FE19B7CBFA00E9C917 /* 900731526.png */; };
 		BC43804B18ACF7A800E268E8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BC43804A18ACF7A800E268E8 /* Foundation.framework */; };
 		BC43804D18ACF7A800E268E8 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BC43804C18ACF7A800E268E8 /* CoreGraphics.framework */; };
 		BC43804F18ACF7A800E268E8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BC43804E18ACF7A800E268E8 /* UIKit.framework */; };
@@ -44,6 +45,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BC3972FE19B7CBFA00E9C917 /* 900731526.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 900731526.png; sourceTree = "<group>"; };
 		BC43804718ACF7A800E268E8 /* LKAppView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LKAppView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC43804A18ACF7A800E268E8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		BC43804C18ACF7A800E268E8 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -198,6 +200,7 @@
 				BC43809F18AD090D00E268E8 /* 738116301.png */,
 				BC4380A118AD09C600E268E8 /* 789188018.png */,
 				BCBB9C4B191AEAC7007AAFEB /* 829927919.png */,
+				BC3972FE19B7CBFA00E9C917 /* 900731526.png */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -292,6 +295,7 @@
 				BC43809D18AD088900E268E8 /* 702233445.png in Resources */,
 				BC43806318ACF7A800E268E8 /* Images.xcassets in Resources */,
 				BC4380A218AD09C600E268E8 /* 789188018.png in Resources */,
+				BC3972FF19B7CBFA00E9C917 /* 900731526.png in Resources */,
 				BCBB9C4C191AEAC7007AAFEB /* 829927919.png in Resources */,
 				BC43809E18AD088900E268E8 /* LKAppList.plist in Resources */,
 				BC4380A518AD0A2F00E268E8 /* LKAppView.podspec in Resources */,

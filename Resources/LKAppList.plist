@@ -4,6 +4,31 @@
 <array>
 	<dict>
 		<key>ApplicationName</key>
+		<string>買い物さん</string>
+		<key>BundleIdentifier</key>
+		<string>jp.lakesoft.KaimonoSan</string>
+		<key>ITunesItemIdentifier</key>
+		<string>900731526</string>
+		<key>Labels</key>
+		<dict>
+			<key>en</key>
+			<dict>
+				<key>name</key>
+				<string>Kaimono San</string>
+				<key>desc</key>
+				<string>Calc for SuperMarket</string>
+			</dict>
+			<key>ja</key>
+			<dict>
+				<key>name</key>
+				<string>買い物さん</string>
+				<key>desc</key>
+				<string>スーパーの電卓</string>
+			</dict>
+		</dict>
+	</dict>
+	<dict>
+		<key>ApplicationName</key>
 		<string>StackOne</string>
 		<key>BundleIdentifier</key>
 		<string>jp.lakesoft.StackOne</string>
