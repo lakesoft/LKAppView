@@ -23,7 +23,7 @@
 				<key>name</key>
 				<string>買い物さん</string>
 				<key>desc</key>
-				<string>スーパーの電卓</string>
+				<string>スーパーの電卓（無料）</string>
 			</dict>
 		</dict>
 	</dict>
@@ -73,7 +73,7 @@
 				<key>name</key>
 				<string>KickCalPro</string>
 				<key>desc</key>
-				<string>最速カレンダー登録（有料）</string>
+				<string>最速カレンダー登録</string>
 			</dict>
 		</dict>
 	</dict>
