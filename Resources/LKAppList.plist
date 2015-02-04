@@ -4,26 +4,26 @@
 <array>
 	<dict>
 		<key>ApplicationName</key>
-		<string>買い物さん</string>
+		<string>EverGear</string>
 		<key>BundleIdentifier</key>
-		<string>jp.lakesoft.KaimonoSan</string>
+		<string>jp.lakesoft.EverGear</string>
 		<key>ITunesItemIdentifier</key>
-		<string>900731526</string>
+		<string>523574150</string>
 		<key>Labels</key>
 		<dict>
 			<key>en</key>
 			<dict>
 				<key>name</key>
-				<string>Kaimono San</string>
+				<string>EverGear</string>
 				<key>desc</key>
-				<string>Calc for SuperMarket</string>
+				<string>Powerful posting tool for Evernote</string>
 			</dict>
 			<key>ja</key>
 			<dict>
 				<key>name</key>
-				<string>買い物さん</string>
+				<string>EverGear</string>
 				<key>desc</key>
-				<string>スーパーの電卓（無料）</string>
+				<string>高機能Evernote投稿ツール</string>
 			</dict>
 		</dict>
 	</dict>
@@ -49,6 +49,81 @@
 				<string>StackOne</string>
 				<key>desc</key>
 				<string>さくさくエバーノート投稿</string>
+			</dict>
+		</dict>
+	</dict>
+	<dict>
+		<key>ApplicationName</key>
+		<string>買い物さん</string>
+		<key>BundleIdentifier</key>
+		<string>jp.lakesoft.KaimonoSan</string>
+		<key>ITunesItemIdentifier</key>
+		<string>900731526</string>
+		<key>Labels</key>
+		<dict>
+			<key>en</key>
+			<dict>
+				<key>name</key>
+				<string>Kaimono San</string>
+				<key>desc</key>
+				<string>Calc for SuperMarket</string>
+			</dict>
+			<key>ja</key>
+			<dict>
+				<key>name</key>
+				<string>買い物さん</string>
+				<key>desc</key>
+				<string>スーパーの電卓（無料）</string>
+			</dict>
+		</dict>
+	</dict>
+	<dict>
+		<key>ApplicationName</key>
+		<string>Viewing Fun !</string>
+		<key>BundleIdentifier</key>
+		<string>jp.lakesoft.ViewingFun</string>
+		<key>ITunesItemIdentifier</key>
+		<string>665537846</string>
+		<key>Labels</key>
+		<dict>
+			<key>en</key>
+			<dict>
+				<key>name</key>
+				<string>Viewing Fun !</string>
+				<key>desc</key>
+				<string>Stylish Photo Viewer (Free)</string>
+			</dict>
+			<key>ja</key>
+			<dict>
+				<key>name</key>
+				<string>Viewing Fun !</string>
+				<key>desc</key>
+				<string>新感覚写真ビューア（無料）</string>
+			</dict>
+		</dict>
+	</dict>
+	<dict>
+		<key>ApplicationName</key>
+		<string>KickReminder</string>
+		<key>BundleIdentifier</key>
+		<string>jp.lakesoft.KickReminder</string>
+		<key>ITunesItemIdentifier</key>
+		<string>702233445</string>
+		<key>Labels</key>
+		<dict>
+			<key>en</key>
+			<dict>
+				<key>name</key>
+				<string>KickReminder</string>
+				<key>desc</key>
+				<string>Fast Rminder Tool</string>
+			</dict>
+			<key>ja</key>
+			<dict>
+				<key>name</key>
+				<string>KickReminder</string>
+				<key>desc</key>
+				<string>最速リマインダ投稿ツール</string>
 			</dict>
 		</dict>
 	</dict>
@@ -99,81 +174,6 @@
 				<string>KickCal</string>
 				<key>desc</key>
 				<string>最速カレンダー登録（無料）</string>
-			</dict>
-		</dict>
-	</dict>
-	<dict>
-		<key>ApplicationName</key>
-		<string>KickReminder</string>
-		<key>BundleIdentifier</key>
-		<string>jp.lakesoft.KickReminder</string>
-		<key>ITunesItemIdentifier</key>
-		<string>702233445</string>
-		<key>Labels</key>
-		<dict>
-			<key>en</key>
-			<dict>
-				<key>name</key>
-				<string>KickReminder</string>
-				<key>desc</key>
-				<string>Fast Rminder Tool</string>
-			</dict>
-			<key>ja</key>
-			<dict>
-				<key>name</key>
-				<string>KickReminder</string>
-				<key>desc</key>
-				<string>最速リマインダ投稿ツール</string>
-			</dict>
-		</dict>
-	</dict>
-	<dict>
-		<key>ApplicationName</key>
-		<string>Viewing Fun !</string>
-		<key>BundleIdentifier</key>
-		<string>jp.lakesoft.ViewingFun</string>
-		<key>ITunesItemIdentifier</key>
-		<string>665537846</string>
-		<key>Labels</key>
-		<dict>
-			<key>en</key>
-			<dict>
-				<key>name</key>
-				<string>Viewing Fun !</string>
-				<key>desc</key>
-				<string>Stylish Photo Viewer (Free)</string>
-			</dict>
-			<key>ja</key>
-			<dict>
-				<key>name</key>
-				<string>Viewing Fun !</string>
-				<key>desc</key>
-				<string>新感覚写真ビューア（無料）</string>
-			</dict>
-		</dict>
-	</dict>
-	<dict>
-		<key>ApplicationName</key>
-		<string>EverGear</string>
-		<key>BundleIdentifier</key>
-		<string>jp.lakesoft.EverGear</string>
-		<key>ITunesItemIdentifier</key>
-		<string>523574150</string>
-		<key>Labels</key>
-		<dict>
-			<key>en</key>
-			<dict>
-				<key>name</key>
-				<string>EverGear</string>
-				<key>desc</key>
-				<string>Powerful posting tool for Evernote</string>
-			</dict>
-			<key>ja</key>
-			<dict>
-				<key>name</key>
-				<string>EverGear</string>
-				<key>desc</key>
-				<string>高機能Evernote投稿ツール</string>
 			</dict>
 		</dict>
 	</dict>

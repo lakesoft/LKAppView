@@ -24,13 +24,13 @@
 		BC43807618ACF7A800E268E8 /* LKAppViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BC43807518ACF7A800E268E8 /* LKAppViewTests.m */; };
 		BC43808418ACF89400E268E8 /* LKAppView.m in Sources */ = {isa = PBXBuildFile; fileRef = BC43808118ACF89400E268E8 /* LKAppView.m */; };
 		BC43808518ACF89400E268E8 /* LKAppList.m in Sources */ = {isa = PBXBuildFile; fileRef = BC43808318ACF89400E268E8 /* LKAppList.m */; };
-		BC43809B18AD088900E268E8 /* 523574150.png in Resources */ = {isa = PBXBuildFile; fileRef = BC43809718AD088900E268E8 /* 523574150.png */; };
 		BC43809C18AD088900E268E8 /* 665537846.png in Resources */ = {isa = PBXBuildFile; fileRef = BC43809818AD088900E268E8 /* 665537846.png */; };
 		BC43809D18AD088900E268E8 /* 702233445.png in Resources */ = {isa = PBXBuildFile; fileRef = BC43809918AD088900E268E8 /* 702233445.png */; };
 		BC43809E18AD088900E268E8 /* LKAppList.plist in Resources */ = {isa = PBXBuildFile; fileRef = BC43809A18AD088900E268E8 /* LKAppList.plist */; };
 		BC4380A018AD090D00E268E8 /* 738116301.png in Resources */ = {isa = PBXBuildFile; fileRef = BC43809F18AD090D00E268E8 /* 738116301.png */; };
 		BC4380A218AD09C600E268E8 /* 789188018.png in Resources */ = {isa = PBXBuildFile; fileRef = BC4380A118AD09C600E268E8 /* 789188018.png */; };
 		BC4380A518AD0A2F00E268E8 /* LKAppView.podspec in Resources */ = {isa = PBXBuildFile; fileRef = BC4380A418AD0A2F00E268E8 /* LKAppView.podspec */; };
+		BC71A83E1A82DC4C0096179B /* 523574150.png in Resources */ = {isa = PBXBuildFile; fileRef = BC71A83D1A82DC4C0096179B /* 523574150.png */; };
 		BCBB9C4C191AEAC7007AAFEB /* 829927919.png in Resources */ = {isa = PBXBuildFile; fileRef = BCBB9C4B191AEAC7007AAFEB /* 829927919.png */; };
 /* End PBXBuildFile section */
 
@@ -69,13 +69,13 @@
 		BC43808118ACF89400E268E8 /* LKAppView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LKAppView.m; sourceTree = "<group>"; };
 		BC43808218ACF89400E268E8 /* LKAppList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LKAppList.h; sourceTree = "<group>"; };
 		BC43808318ACF89400E268E8 /* LKAppList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LKAppList.m; sourceTree = "<group>"; };
-		BC43809718AD088900E268E8 /* 523574150.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 523574150.png; sourceTree = "<group>"; };
 		BC43809818AD088900E268E8 /* 665537846.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 665537846.png; sourceTree = "<group>"; };
 		BC43809918AD088900E268E8 /* 702233445.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 702233445.png; sourceTree = "<group>"; };
 		BC43809A18AD088900E268E8 /* LKAppList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = LKAppList.plist; sourceTree = "<group>"; };
 		BC43809F18AD090D00E268E8 /* 738116301.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 738116301.png; sourceTree = "<group>"; };
 		BC4380A118AD09C600E268E8 /* 789188018.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 789188018.png; sourceTree = "<group>"; };
 		BC4380A418AD0A2F00E268E8 /* LKAppView.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LKAppView.podspec; sourceTree = "<group>"; };
+		BC71A83D1A82DC4C0096179B /* 523574150.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 523574150.png; sourceTree = "<group>"; };
 		BCBB9C4B191AEAC7007AAFEB /* 829927919.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 829927919.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -194,7 +194,7 @@
 			isa = PBXGroup;
 			children = (
 				BC43809A18AD088900E268E8 /* LKAppList.plist */,
-				BC43809718AD088900E268E8 /* 523574150.png */,
+				BC71A83D1A82DC4C0096179B /* 523574150.png */,
 				BC43809818AD088900E268E8 /* 665537846.png */,
 				BC43809918AD088900E268E8 /* 702233445.png */,
 				BC43809F18AD090D00E268E8 /* 738116301.png */,
@@ -290,7 +290,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BC43809B18AD088900E268E8 /* 523574150.png in Resources */,
 				BC43809C18AD088900E268E8 /* 665537846.png in Resources */,
 				BC43809D18AD088900E268E8 /* 702233445.png in Resources */,
 				BC43806318ACF7A800E268E8 /* Images.xcassets in Resources */,
@@ -299,6 +298,7 @@
 				BCBB9C4C191AEAC7007AAFEB /* 829927919.png in Resources */,
 				BC43809E18AD088900E268E8 /* LKAppList.plist in Resources */,
 				BC4380A518AD0A2F00E268E8 /* LKAppView.podspec in Resources */,
+				BC71A83E1A82DC4C0096179B /* 523574150.png in Resources */,
 				BC43805518ACF7A800E268E8 /* InfoPlist.strings in Resources */,
 				BC4380A018AD090D00E268E8 /* 738116301.png in Resources */,
 				BC43805E18ACF7A800E268E8 /* Main.storyboard in Resources */,
