@@ -29,151 +29,151 @@
 	</dict>
 	<dict>
 		<key>ApplicationName</key>
-		<string>StackOne</string>
+		<string>Todayee Text</string>
 		<key>BundleIdentifier</key>
-		<string>jp.lakesoft.StackOne</string>
+		<string>jp.lakesoft.todayee.text</string>
 		<key>ITunesItemIdentifier</key>
-		<string>829927919</string>
+		<string>1123372860</string>
 		<key>Labels</key>
 		<dict>
 			<key>en</key>
 			<dict>
 				<key>name</key>
-				<string>StackOne</string>
+				<string>Todayee Text</string>
 				<key>desc</key>
-				<string>Speedy Evernote Tool</string>
+				<string>Evernote posting app in multi app &amp; devices</string>
 			</dict>
 			<key>ja</key>
 			<dict>
 				<key>name</key>
-				<string>StackOne</string>
+				<string>Todayee Text</string>
 				<key>desc</key>
-				<string>さくさくエバーノート投稿</string>
+				<string>メモを1日のノートにまとめる</string>
 			</dict>
 		</dict>
 	</dict>
 	<dict>
 		<key>ApplicationName</key>
-		<string>買い物さん</string>
+		<string>Todayee Photo</string>
 		<key>BundleIdentifier</key>
-		<string>jp.lakesoft.KaimonoSan</string>
+		<string>jp.lakesoft.todayee.photo</string>
 		<key>ITunesItemIdentifier</key>
-		<string>900731526</string>
+		<string>1123376001</string>
 		<key>Labels</key>
 		<dict>
 			<key>en</key>
 			<dict>
 				<key>name</key>
-				<string>Kaimono San</string>
+				<string>Todayee Photo</string>
 				<key>desc</key>
-				<string>Calc for SuperMarket</string>
+				<string>Evernote posting app in multi app &amp; devices</string>
 			</dict>
 			<key>ja</key>
 			<dict>
 				<key>name</key>
-				<string>買い物さん</string>
+				<string>Todayee Photo</string>
 				<key>desc</key>
-				<string>スーパーの電卓（無料）</string>
+				<string>撮影した写真を1日のノートにまとめる</string>
 			</dict>
 		</dict>
 	</dict>
 	<dict>
 		<key>ApplicationName</key>
-		<string>Viewing Fun !</string>
+		<string>Todayee Silent</string>
 		<key>BundleIdentifier</key>
-		<string>jp.lakesoft.ViewingFun</string>
+		<string>jp.lakesoft.todayee.silent</string>
 		<key>ITunesItemIdentifier</key>
-		<string>665537846</string>
+		<string>1134363553</string>
 		<key>Labels</key>
 		<dict>
 			<key>en</key>
 			<dict>
 				<key>name</key>
-				<string>Viewing Fun !</string>
+				<string>Todayee Silent</string>
 				<key>desc</key>
-				<string>Stylish Photo Viewer (Free)</string>
+				<string>Evernote posting app in multi app &amp; devices</string>
 			</dict>
 			<key>ja</key>
 			<dict>
 				<key>name</key>
-				<string>Viewing Fun !</string>
+				<string>Todayee Silent</string>
 				<key>desc</key>
-				<string>新感覚写真ビューア（無料）</string>
+				<string>静音撮影した写真を1日のノートにまとめる</string>
 			</dict>
 		</dict>
 	</dict>
 	<dict>
 		<key>ApplicationName</key>
-		<string>KickReminder</string>
+		<string>Todayee Extension</string>
 		<key>BundleIdentifier</key>
-		<string>jp.lakesoft.KickReminder</string>
+		<string>jp.lakesoft.todayee.extension</string>
 		<key>ITunesItemIdentifier</key>
-		<string>702233445</string>
+		<string>1134361372</string>
 		<key>Labels</key>
 		<dict>
 			<key>en</key>
 			<dict>
 				<key>name</key>
-				<string>KickReminder</string>
+				<string>Todayee Extension</string>
 				<key>desc</key>
-				<string>Fast Rminder Tool</string>
+				<string>Evernote posting app in multi app &amp; devices</string>
 			</dict>
 			<key>ja</key>
 			<dict>
 				<key>name</key>
-				<string>KickReminder</string>
+				<string>Todayee Extension</string>
 				<key>desc</key>
-				<string>最速リマインダ投稿ツール</string>
+				<string>「送る」を1日のノートにまとめる</string>
 			</dict>
 		</dict>
 	</dict>
 	<dict>
 		<key>ApplicationName</key>
-		<string>KickCalPro</string>
+		<string>Todayee Place</string>
 		<key>BundleIdentifier</key>
-		<string>jp.lakesoft.KickCalPro</string>
+		<string>jp.lakesoft.todayee.place</string>
 		<key>ITunesItemIdentifier</key>
-		<string>789188018</string>
+		<string>1146820611</string>
 		<key>Labels</key>
 		<dict>
 			<key>en</key>
 			<dict>
 				<key>name</key>
-				<string>KickCalPro</string>
+				<string>Todayee Place</string>
 				<key>desc</key>
-				<string>Speedy Calendar Register</string>
+				<string>Evernote posting app in multi app &amp; devices</string>
 			</dict>
 			<key>ja</key>
 			<dict>
 				<key>name</key>
-				<string>KickCalPro</string>
+				<string>Todayee Place</string>
 				<key>desc</key>
-				<string>最速カレンダー登録</string>
+				<string>地図画像を1日のノートにまとめる</string>
 			</dict>
 		</dict>
 	</dict>
 	<dict>
 		<key>ApplicationName</key>
-		<string>KickCal</string>
+		<string>Todayee Pics</string>
 		<key>BundleIdentifier</key>
-		<string>jp.lakesoft.KickCal</string>
+		<string>jp.lakesoft.todayee.pics</string>
 		<key>ITunesItemIdentifier</key>
-		<string>738116301</string>
+		<string>1154987684</string>
 		<key>Labels</key>
 		<dict>
 			<key>en</key>
 			<dict>
 				<key>name</key>
-				<string>KickCal</string>
+				<string>Todayee Pics</string>
 				<key>desc</key>
-				<string>Speedy Calendar Register</string>
+				<string>Evernote posting app in multi app &amp; devices</string>
 			</dict>
 			<key>ja</key>
 			<dict>
 				<key>name</key>
-				<string>KickCal</string>
+				<string>Todayee Pics</string>
 				<key>desc</key>
-				<string>最速カレンダー登録（無料）</string>
+				<string>写真を1日のノートにまとめる</string>
 			</dict>
 		</dict>
 	</dict>

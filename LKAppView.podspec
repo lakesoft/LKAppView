@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "LKAppView"
-  s.version      = "1.1.2"
+  s.version      = "1.2.0"
   s.summary      = "App List Library"
   s.description  = <<-DESC
 App List Library.
